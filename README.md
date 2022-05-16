@@ -2,8 +2,9 @@
 ### The Tech guy with the web
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
 </div>
+![counter](https://[YourEndpoint].m.pipedream.net)
 
 - 🔭 I’m currently working on React & Vue
 
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
   </a>
 </div>
   <a href="dicethedev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Gmail Badge"/>
   </a>
 
 
