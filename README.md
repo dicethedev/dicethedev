@@ -3,9 +3,10 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
+  <img src="https://komarev.com/ghpvc/?username=dicethedev&style=flat-square&color=blue" alt=""/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=dicethedev&style=flat-square&color=blue" alt=""/>
+
 
 - 🔭 I’m currently working on React & Vue
 
