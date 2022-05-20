@@ -22,7 +22,7 @@ Blessing does not love talking about himself in the 3rd person. He wants to lear
 
 ---
 
-- ⚡ Fun fact: I love Coding and solving logic
+- ⚡ Fun fact: I love Coding and solving logic. I call it my thing! lol
 
 
 ---
