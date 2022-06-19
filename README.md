@@ -76,8 +76,9 @@ Here are some ideas to get you started:
   </a>                                                                                                                    
 </div>
   <br>
-      
-   ![Snake animation](https://github.com/dicethedev/dicethedev/blob/output/github-contribution-grid-snake.svg)
+                                                                                                                             
+      ## Snake eating my contribution graph
+    ![Snake animation](https://github.com/dicethedev/dicethedev/blob/output/github-contribution-grid-snake.svg)
 
 
 
