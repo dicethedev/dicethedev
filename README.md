@@ -5,14 +5,7 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
   <img src="https://komarev.com/ghpvc/?username=dicethedev&style=flat-square&color=blue" alt=""/>
 </div>
-
-
- <div>
-  <a href="https://github.com/dicethedev">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicethedev&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dicethedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
-
+<iframe src="https://giphy.com/embed/Dk57URqjqjHjNGHeMV" width="480" height="449" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-tech-pro-keyboard-Dk57URqjqjHjNGHeMV">via GIPHY</a></p>
 
 Blessing Samuel is a technical expert in the areas of software engineering. I feel comfortable working with Agile methodologies. Familiar with HTML5, CSS3 (SAAS & SCSS), Styled-components JavaScript, TypeScript, Node.js, Express, React + Redux, Vue + Vuex, Jest.
 
