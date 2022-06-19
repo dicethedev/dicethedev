@@ -78,6 +78,7 @@ Here are some ideas to get you started:
   <br>
                                                                                                                              
       ## Snake eating my contribution graph
+                                                                                                                             
     ![Snake animation](https://github.com/dicethedev/dicethedev/blob/output/github-contribution-grid-snake.svg)
 
 
