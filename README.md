@@ -7,7 +7,7 @@
 </div>
 
 
-Blessing Samuel is a technical expert in the areas of software engineering. I feel comfortable working with Agile methodologies. Familiar with HTML5, CSS3 (SAAS & SCSS), JavaScript, TypeScript, Node.js, Express, React + Redux, Vue + Vuex, Jest.
+Blessing Samuel is a technical expert in the areas of software engineering. I feel comfortable working with Agile methodologies. Familiar with HTML5, CSS3 (SAAS & SCSS), Styled-components JavaScript, TypeScript, Node.js, Express, React + Redux, Vue + Vuex, Jest.
 
 Blessing love programming and designing things that live on the web. My interest is web development and my web development journey started back then in 2020 when I decided to try to work on a free HTML template. I am very adept using JavaScript and its frameworks like Vue & React. I can work with zeal.
 
@@ -36,6 +36,7 @@ Blessing does not love talking about himself in the 3rd person. He wants to lear
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-original.svg" title="Jest" alt="Jest" width="50" height="50"/>&nbsp;
+  <img src="src/logo/cypress-io-logo-round-flat.svg" title="Cypress" alt="Cypress" width="50" height="50"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-original-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
