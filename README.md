@@ -6,6 +6,12 @@
   <img src="https://komarev.com/ghpvc/?username=dicethedev&style=flat-square&color=blue" alt=""/>
 </div>
 
+ <div>
+  <a href="https://github.com/eagrundy">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagrundy&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eagrundy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
+
 
 Blessing Samuel is a technical expert in the areas of software engineering. I feel comfortable working with Agile methodologies. Familiar with HTML5, CSS3 (SAAS & SCSS), Styled-components JavaScript, TypeScript, Node.js, Express, React + Redux, Vue + Vuex, Jest.
 
