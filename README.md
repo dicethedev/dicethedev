@@ -6,6 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=dicethedev&style=flat-square&color=blue" alt=""/>
 </div>
 
+
  <div>
   <a href="https://github.com/dicethedev">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicethedev&layout=compact&langs_count=16&theme=dracula"/>
@@ -82,6 +83,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>                                                                                                                    
 </div>
+  <br>
+      
+   ![Snake animation](https://github.com/dicethedev/dicethedev/blob/output/github-contribution-grid-snake.svg)
 
 
 
