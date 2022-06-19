@@ -36,7 +36,7 @@ Blessing does not love talking about himself in the 3rd person. He wants to lear
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-original.svg" title="Jest" alt="Jest" width="50" height="50"/>&nbsp;
-  <img src="src/logo/cypress-io-logo-round-flat.svg" title="Cypress" alt="Cypress" width="50" height="50"/>&nbsp;
+  <img src="https://iconape.com/cypress-logo-icon-svg-png.html" title="Cypress" alt="Cypress" width="50" height="50"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-original-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
