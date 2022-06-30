@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=dicethedev&style=flat-square&color=blue" alt=""/>
 </div>
 
-Blessing Samuel is a technical expert in the areas of software engineering. I feel comfortable working with Agile methodologies. Familiar with HTML5, CSS3 (SAAS & SCSS), Styled-components JavaScript, TypeScript, Node.js, Express, React + Redux, Vue + Vuex, Jest.
+Blessing Samuel is a technical expert in the areas of software engineering. I feel comfortable working with Agile methodologies. Familiar with HTML5, CSS3 (SAAS & SCSS), Styled-components, JavaScript, TypeScript, Node.js, Express, React + Redux, Vue + Vuex, Jest.
 
 Blessing love programming and designing things that live on the web. My interest is web development and my web development journey started back then in 2020 when I decided to try to work on a free HTML template. I am very adept using JavaScript and its frameworks like Vue & React. I can work with zeal.
 
