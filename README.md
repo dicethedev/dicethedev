@@ -17,7 +17,7 @@ Blessing does not love talking about himself in the 3rd person. He wants to lear
 - 🔭 I’m currently working on React & Vue
 
 
-- 🌱 I’m currently learning React Blockchain Development
+- 🌱 I’m currently learning Blockchain Development
 
 ---
 
