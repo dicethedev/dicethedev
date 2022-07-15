@@ -8,9 +8,9 @@
 
 Blessing Samuel is a technical expert in the areas of software engineering. I feel comfortable working with Agile methodologies. Familiar with HTML5, CSS3 (SAAS & SCSS), Styled-components, JavaScript, TypeScript, Node.js, Express, React + Redux, Vue + Vuex, Jest.
 
-Blessing love programming and designing things that live on the web. My interest is web development and my web development journey started back then in 2020 when I decided to try to work on a free HTML template. I am very adept using JavaScript and its frameworks like Vue & React. I can work with zeal.
+Blessing loves programming and designing things that live on the web. My interest in web development and my web development journey started back then in 2020 when I decided to try to work on a free HTML template. I am very adept at using JavaScript and its frameworks like Vue & React. I can work with zeal.
 
-Blessing does not love talking about himself in the 3rd person. He wants to learn New things, because that's what brings joy to his life Up. He believes in team success & growth, however, he always put his best & maintain a strong team bonding for every project he gets to work on.
+Blessing does not love talking about himself in the 3rd person. He wants to learn new things because that's what brings joy to his life Up. He believes in team success & growth, however, he always put his best & maintains a strong team bonding for every project he gets to work on.
 
 
 
