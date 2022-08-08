@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <p align="center">
-    <img title="My streak" alt="technophile-04's streak" src="https://github-readme-streak-stats.herokuapp.com?user=technophile-04&theme=dark&ring=4981F4&currStreakLabel=4981F4&fire=4981F4&border=4981F4"/>
+    <img title="My streak" alt="dicethedv's streak" src="https://github-readme-streak-stats.herokuapp.com?user=dicethedev&theme=dark&ring=4981F4&currStreakLabel=4981F4&fire=4981F4&border=4981F4"/>
     <img alt="dicethedev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicethedev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4981F4&icon_color=F8D866&hide=Jupyter%20Notebook&border_color=4981F4"/>
     </p>
 </p>
