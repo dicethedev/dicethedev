@@ -29,8 +29,13 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://www.linkedin.com/in/blessing-samuel-6a72b1211/">
     <img alt="linkedIn" title="Lets connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=dicethedev&style=flat-square&color=blue"/>                                                                                                                            
+ </p>
+ 
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dicethedev/count.svg" />
 </p>
+
     
     
 - 🔭 I’m currently working on React & Vue
