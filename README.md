@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on React & Vue
 
 
-- 🌱 I’m currently learning Blockchain Development
+- 🌱 I’m currently in the Blockchain Development space. I love Web3!
 
 ---
 
