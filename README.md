@@ -1,29 +1,24 @@
-                                                                                                                
-<!--
-**dicethedev/dicethedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h2> Hi there, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<a href="https://www.linkedin.com/in/blessing-samuel-6a72b1211/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/dicethedev" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/dicethedev5" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://coming-soon" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
----
-                                                                                                                             
-<h3 align="center">
-    Hello World 🌏, I am Blessing, The Tech guy with the Web
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<!-- Typing SVG -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=4981F4&width=350&lines=Software-Engineer+Frontend;Blockchain+Engineer+!;Always+learning+new+things">
-</p>
+<br />
+<br />
+  
+I am a Software Engineer (Frontend) with over 3 years of experience and have worked on projects of large and small scale for established companies and startups. I see programming languages as tools to get the job done... So I have employed the use of many when needed.
+Secret: **Frontend is my thing**
 
 <!-- Social badges section -->
 <p align="center">
@@ -36,76 +31,36 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/dicethedev/count.svg" />
 </p>
 
-    
-    
-- 🔭 I’m currently working on React & Vue
+I am currently a Mad Web3 Frontend Engineer, working with NextJS, ReactJS, Typescript, JavaScript, EthersJS, Wagmi, Viem,  Solidity, and CSS Frameworks. I specialized in building DApps for Web3 and I have a great interest in the Blockchain Space.
+
+My end Goal is to become a Mad Web3 Frontend Engineer contributing to wallet, SDK EIP's <Ethereum Improvement Proposals> (Frontend Engineer @ Ethereum).... Trust me, I am working towards it :)
+
+<br />
+
+I'm currently based in Abuja, Nigeria.
+
+<br />
+I love and enjoy learning new techs and using new tools. I also love listening to music while coding, it gives me that vibe...
+<br />
+<br />
+
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
+Ask me anything **[here](http://twitter.com/dicethedev)** or <a href="mailto:dicethedev@gmail.com"><b>send me an email</b></a>.
+<br />
+<br />
 
 
-- 🌱 I’m currently in the Blockchain Development space. I love Web3!
+<br />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicethedev&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+<br />
+<br />
+<br />
 
----
+**The Learning Journey Continues!** 😊
 
-- ⚡ Fun fact: I love Coding and solving logic. I call it my thing! lol
+</div>
 
-
-                                                                                                                                   
-## 🔥 Github stats
-
-<p align="center">
-    <p align="center">
-    <img title="My streak" alt="dicethedv's streak" src="https://github-readme-streak-stats.herokuapp.com?user=dicethedev&theme=dark&ring=4981F4&currStreakLabel=4981F4&fire=4981F4&border=4981F4"/>
-    <img alt="dicethedev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicethedev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4981F4&icon_color=F8D866&hide=Jupyter%20Notebook&border_color=4981F4"/>
-    </p>
-</p>
-
-## 🛠️ My favorite tools
-
-### 👨‍💻 Programming and markup languages
-
-<p>
-    <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img alt="php" src="https://img.shields.io/badge/PHP-007ACC?style=for-the-badge&logo=php&logoColor=white">
-    <img alt="solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
-</p>
-
-### 🧰 Frameworks and libraries
-
-<p>
-    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img alt="vue" src="https://img.shields.io/badge/vue-20232A?style=for-the-badge&logo=vue&logoColor=61DAFB">
-    <img alt="nextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-    <img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-    <img alt="yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
-    <img alt="express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-    <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-    <img alt="web3" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white">
-    <img alt="graphQl" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white">
-    <img alt="chakra-ui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white">
-    <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img alt="marterialUI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
-</p>
-
-### 🗄️ Databases, Blockchains and cloud hosting
-
-<p>
-
-<img alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img alt="mySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img alt="eth" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
-<img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-<img alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-<img alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-
-</p>
-
-
-[![technophile-04's github activity graph](https://activity-graph.herokuapp.com/graph?username=dicethedev&bg_color=151515&color=4981f4&line=4981f4&point=ffffff&area=true)](https://activity-graph.herokuapp.com/graph?username=dicethedev)
-
-                                                                       
-!//[snake gif](https://github.com/dicethedev/dicethedev/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+<br />
 
