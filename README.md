@@ -18,7 +18,7 @@
 <br />
   
 I am a Software Engineer (Frontend) with over 3 years of experience and have worked on projects of large and small scale for established companies and startups. I see programming languages as tools to get the job done... So I have employed the use of many when needed.
-Secret: **Frontend is my thing**
+Secret: **Blessing a student for all**
 
 <!-- Social badges section -->
 <p align="center">
@@ -33,7 +33,7 @@ Secret: **Frontend is my thing**
 
 I am currently a Mad Web3 Frontend Engineer, working with NextJS, ReactJS, Typescript, JavaScript, EthersJS, Wagmi, Viem,  Solidity, and CSS Frameworks. I specialized in building DApps for Web3 and I have a great interest in the Blockchain Space.
 
-My end Goal is to become a Mad Web3 Frontend Engineer contributing to wallet, SDK EIP's <Ethereum Improvement Proposals> (Frontend Engineer @ Ethereum).... Trust me, I am working towards it :)
+My end Goal is to become a Mad Software Engineer (Frontend) contributing to wallet, SDK EIP's <Ethereum Improvement Proposals> (Frontend Engineer @ Ethereum).... Trust me, I am working towards it :)
 
 <br />
 
@@ -58,6 +58,8 @@ Ask me anything **[here](http://twitter.com/dicethedev)** or <a href="mailto:dic
 <br />
 
 **The Learning Journey Continues!** 😊
+
+** Software Engineering Student @ Miva Open University **
 
 </div>
 
