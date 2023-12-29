@@ -33,7 +33,7 @@ Secret: **Blessing a student for all**
 
 I am currently a Mad Web3 Frontend Engineer, working with NextJS, ReactJS, Typescript, JavaScript, EthersJS, Wagmi, Viem,  Solidity, and CSS Frameworks. I specialized in building DApps for Web3 and I have a great interest in the Blockchain Space.
 
-My end Goal is to become a Mad Software Engineer (Frontend) contributing to wallet, SDK EIP's <Ethereum Improvement Proposals> (Frontend Engineer @ Ethereum).... Trust me, I am working towards it :)
+My end Goal is to become a Mad Software Engineer contributing to wallets, SDK EIP's <Ethereum Improvement Proposals> (SDK Engineer @ Ethereum).... Trust me, I am working towards it :)
 
 <br />
 
@@ -44,7 +44,7 @@ I love and enjoy learning new techs and using new tools. I also love listening t
 <br />
 <br />
 
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
+Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better.<br />
 Ask me anything **[here](http://twitter.com/dicethedev)** or <a href="mailto:dicethedev@gmail.com"><b>send me an email</b></a>.
 <br />
 <br />
