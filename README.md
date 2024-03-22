@@ -36,10 +36,6 @@ I am currently a Mad Web3 Frontend Engineer, working with NextJS, ReactJS, Types
 My end Goal is to become a Mad Software Engineer contributing to wallets, SDK EIP's <Ethereum Improvement Proposals> (SDK Engineer @ Ethereum).... Trust me, I am working towards it :)
 
 <br />
-
-I'm currently based in Abuja, Nigeria.
-
-<br />
 I love and enjoy learning new techs and using new tools. I also love listening to music while coding, it gives me that vibe...
 <br />
 <br />
@@ -49,7 +45,6 @@ Ask me anything **[here](http://twitter.com/dicethedev)** or <a href="mailto:dic
 <br />
 <br />
 
-
 <br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicethedev&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
@@ -58,9 +53,6 @@ Ask me anything **[here](http://twitter.com/dicethedev)** or <a href="mailto:dic
 <br />
 
 **The Learning Journey Continues!** 😊
-
-** Software Engineering Student @ Miva Open University **
-
 </div>
 
 <div align="center">
