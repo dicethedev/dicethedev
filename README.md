@@ -18,7 +18,7 @@
 <br />
   
 I am a Software Engineer (Frontend) with over 4 years of experience and have worked on projects of large and small scale for established companies and startups. I see programming languages as tools to get the job done... So I have employed the use of many when needed.
-Secret: **Blessing a student for all**
+Secret: **Student of the Bible apart from coding*
 
 <!-- Social badges section -->
 <p align="center">
