@@ -47,7 +47,9 @@ Ask me anything **[here](http://twitter.com/dicethedev)** or <a href="mailto:dic
 
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicethedev&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+<img title="My streak" alt="dicethedv's streak" src="https://github-readme-streak-stats.herokuapp.com?user=dicethedev&theme=dark&ring=4981F4&currStreakLabel=4981F4&fire=4981F4&border=4981F4"/>
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicethedev&layout=compact&theme=dark&bg_color=0A0A0A" alt="Blessing Samuel Top Languages"/>
 <br />
 <br />
 <br />
