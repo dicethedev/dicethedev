@@ -12,15 +12,15 @@
 
 🧑‍💻 **About Me**
 
-A passionate **Mad Frontend Engineer (Web3)** with a deep interest in decentralized applications, a growing focus on full-stack development and protocol-level innovations, and about making Web3 more accessible through intuitive user interfaces and robust front-end architectures.
+A passionate **Mad Engineer (Web3)** with a deep interest in decentralized applications, a growing focus on full-stack development and protocol-level innovations, and about making Web3 more accessible through intuitive user interfaces and robust front-end architectures.
 
-I specialize in building Web3 user interfaces using:  **React**, **Next.js**, **TypeScript**, **JavaScript**, EVM, **Solidity**, **Foundry**, **Ethers.js**, **Wagmi**, **Viem**, **Redux**, **Zustand**, CSS Frameworks like **Tailwind**, **Chakra UI**, and more.
+I specialize in building intuitive Web3 user interfaces while actively engaging and exploring with the protocol layer of blockchain.
 
  > _Secret:  I’m also an avid **student of the Bible**, which grounds my life outside the tech world. 🙏
 
 ### 🧠 What I’m Working On --- **My Goals & Aspirations**
 
-Currently building scalable, beautiful, and intuitive **dApps**, Learning **Rust** and **Go** to prepare for low-level protocol engineering, Diving into **Ethereum Improvement Proposals (EIPs)** and core Ethereum Protocol Design — I aspire to contribute to protocol design and write EIPs in the future and Exploring the path to becoming a **Protocol Engineer & Researcher**....... Trust me, I am working towards it.
+Currently building scalable, beautiful, and intuitive **dApps**, Learning **Rust** to prepare for low-level protocol engineering, Diving into **Ethereum Improvement Proposals (EIPs)** and core Ethereum Protocol Design — I aspire to contribute to protocol design and write EIPs in the future and Exploring the path to becoming a **Protocol Engineer & Researcher**....... Trust me, I am working towards it.
 
 <br />
 I love and enjoy learning new techs and using new tools. I also love listening to music while coding, it gives me that vibe... I'm always open to learning, building, and collaborating with others in the ecosystem. 
