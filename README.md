@@ -40,14 +40,11 @@ Also a fullstack engineer — DeFi frontends, backend services, React/Next.js/Ty
 
 **Reach me** → [Twitter](https://twitter.com/dicethedev) · [LinkedIn](https://www.linkedin.com/in/dicethedev/)
 
-<br />
-<br />
-<img title="My streak" alt="dicethedv's streak" src="https://github-readme-streak-stats.herokuapp.com?user=dicethedev&theme=dark&ring=4981F4&currStreakLabel=4981F4&fire=4981F4&border=4981F4"/>
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicethedev&layout=compact&theme=dark&bg_color=0A0A0A" alt="Blessing Samuel Top Languages"/>
-<br />
-<br />
-<br />
+<div align="center">
+  <img title="My streak" alt="dicethedev's streak" src="https://github-readme-streak-stats.herokuapp.com?user=dicethedev&theme=dark&ring=4981F4&currStreakLabel=4981F4&fire=4981F4&border=4981F4" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicethedev&layout=compact&theme=dark&bg_color=0A0A0A" alt="Blessing Samuel Top Languages" />
+</div>
 
 **The Learning Never ends!** 😊 I'm hungry for more
 </div>
