@@ -1,34 +1,44 @@
 <div align="center">
-<h2> Hi there, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+
+<h2>Hey, I'm Blessing 👋</h2>
+
 <a href="https://www.linkedin.com/in/blessing-samuel-6a72b1211/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://twitter.com/dicethedev" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://hackmd.io/@dicethedev" target="_blank">
+<img src="https://img.shields.io/badge/HackMD-000000?style=for-the-badge&logo=hackmd&logoColor=white" />
 </a>
 
-<br />
+<br /><br />
 
-🧑‍💻 **About Me**
+**Protocol Engineer · Rust/Python · Ethereum Internals**
 
-A passionate **Mad Engineer (Web3)** with a deep interest in decentralized applications, a growing focus on full-stack development and protocol-level innovations, and about making Web3 more accessible through intuitive user interfaces and robust front-end architectures.
+Founding Engineer at [Sereel](https://sereel.com)
 
-I specialize in building intuitive Web3 user interfaces while actively engaging and exploring with the protocol layer of blockchain.
+</div>
 
- > _Secret:  I’m also an avid **student of the Bible**, which grounds my life outside the tech world. 🙏
+---
 
-### 🧠 What I’m Working On --- **My Goals & Aspirations**
+I build at the intersection of **protocol design and systems engineering** — working primarily in Rust on blockchain infrastructure, P2P networking, and cryptographic primitives. I've contributed to Ethereum client implementations, shipped threshold signing infrastructure, and I'm actively researching post-quantum cryptography for open financial protocols.
 
-Currently building scalable, beautiful, and intuitive **dApps**, Learning **Rust** to prepare for low-level protocol engineering, Diving into **Ethereum Improvement Proposals (EIPs)** and core Ethereum Protocol Design — I aspire to contribute to protocol design and write EIPs in the future and Exploring the path to becoming a **Protocol Engineer & Researcher**....... Trust me, I am working towards it.
+Growing deep in **Protocol Engineering, Blockchain, and Distributed Systems research** — reading specs, writing notes, and contributing where I can.
 
-<br />
-I love and enjoy learning new techs and using new tools. I also love listening to music while coding, it gives me that vibe... I'm always open to learning, building, and collaborating with others in the ecosystem. 
-<br />
+Also a fullstack engineer — DeFi frontends, backend services, React/Next.js/TypeScript. I still speak that language.
 
-Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better.<br />
-Ask me anything **[here](http://twitter.com/dicethedev)** or <a href="mailto:dicethedev@gmail.com"><b>send me an email</b></a>.
-<br />
+> *Also an avid student of the Bible — it keeps me grounded outside the terminal. 🙏*
+
+---
+
+**Currently**
+- Founding Engineer @ Sereel · RWA tokenization infrastructure
+- Contributing to `leanEthereum/leanSpec` and Ethereum client repos · consensus layer, fork choice, and p2p transport
+
+**Writing** → [hackmd.io/@dicethedev](https://hackmd.io/@dicethedev)
+
+**Reach me** → [Twitter](https://twitter.com/dicethedev) · [LinkedIn](https://www.linkedin.com/in/dicethedev/)
 
 <br />
 <br />
