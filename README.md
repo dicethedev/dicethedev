@@ -14,31 +14,45 @@
 
 <br /><br />
 
-**Protocol Engineer · Rust/Python · Ethereum Internals**
-
-Founding Engineer at [Sereel](https://sereel.com)
-
+**Software & Systems Engineer · Building across product, infrastructure, and protocols**
 </div>
 
 ---
 
-I build at the intersection of **protocol design and systems engineering** — working primarily in Rust on blockchain infrastructure, P2P networking, and cryptographic primitives. I've contributed to Ethereum client implementations, shipped threshold signing infrastructure, and I'm actively researching post-quantum cryptography for open financial protocols.
+I’m a software engineer who enjoys building things across the stack, from **customer-facing products and backend services to distributed systems, blockchain infrastructure, and developer tooling**.
 
-Growing deep in **Protocol Engineering, Blockchain, and Distributed Systems research** — reading specs, writing notes, and contributing where I can.
+My work spans **TypeScript, JavaScript, Rust, and Python**, with experience across React/Next.js applications, backend systems, data infrastructure, smart contracts, P2P networking, cryptographic data structures, and protocol-level engineering.
 
-Also a fullstack engineer — DeFi frontends, backend services, React/Next.js/TypeScript. I still speak that language.
+I’m especially drawn to problems where **software design, performance, correctness, and real-world usability** meet. Sometimes that means shipping a product feature; other times it means reading a protocol specification, investigating how a distributed system behaves, or building lower-level infrastructure.
+
+I also spend a lot of time learning, researching, writing, and contributing to open-source projects around **distributed systems, Ethereum, cryptography, and systems engineering**.
 
 > *Also an avid student of the Bible — it keeps me grounded outside the terminal. 🙏*
 
 ---
 
-**Currently**
-- Founding Engineer @ Sereel · RWA tokenization infrastructure
-- Contributing to `leanEthereum/leanSpec` and Ethereum client repos · consensus layer, fork choice, and p2p transport
+## Currently
 
-**Writing** → [hackmd.io/@dicethedev](https://hackmd.io/@dicethedev)
+- **Founding Engineer @ [Sereel](https://sereel.com/)** - building RWA tokenization products and infrastructure
+- Building **MerkleForge** - tooling and libraries around Merkle trees, proofs, and verification
+- Exploring and contributing to **Ethereum protocol/client engineering**
+- Building with **TypeScript, React, Next.js, Node.js, Rust, Python, and Solidity**
+- Writing about systems, protocols, cryptography, and things I learn along the way
+---
+## Areas I Enjoy
+`Software Engineering` · `Backend Systems` · `Distributed Systems` · `Developer Infrastructure` · `Protocol Engineering` · `Blockchain` · `Cryptography` · `Frontend Engineering`
 
-**Reach me** → [Twitter](https://twitter.com/dicethedev) · [LinkedIn](https://www.linkedin.com/in/dicethedev/)
+---
+
+## Writing
+
+- [hackmd.io/@dicethedev](https://hackmd.io/@dicethedev)
+
+## Reach Me
+
+[Twitter / X](https://twitter.com/dicethedev) · [LinkedIn](https://www.linkedin.com/in/dicethedev/)
+
+**The Learning Never ends!** 😊 I'm hungry for more
 
 <div align="center">
   <img title="My streak" alt="dicethedev's streak" src="https://github-readme-streak-stats.herokuapp.com?user=dicethedev&theme=dark&ring=4981F4&currStreakLabel=4981F4&fire=4981F4&border=4981F4" />
@@ -46,7 +60,6 @@ Also a fullstack engineer — DeFi frontends, backend services, React/Next.js/Ty
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicethedev&layout=compact&theme=dark&bg_color=0A0A0A" alt="Blessing Samuel Top Languages" />
 </div>
 
-**The Learning Never ends!** 😊 I'm hungry for more
 </div>
 
 <div align="center">
